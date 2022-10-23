@@ -1,7 +1,7 @@
 # CS-330
 1.How do I approach designing software?
 -What new design skills has your work on the project helped you to craft?
-
+Being new to OpenGL everything was new and all of the design skills I learned were new. Learning the new design skills in OpenGL allowed me to create my 3D Scene utilizing OpenGL commands such as translate, rotate, and scale. Managing the libraries and dependencies was a dauting task at first, but over time became muscle memory. 
 -What design process did you follow for your project work?
 
 -How could tactics from your design approach be applied in future work?
