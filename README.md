@@ -11,6 +11,7 @@ This can be applied in everyday work. All task need a starting point, and in thi
 
 2.How do I approach developing programs?
 -What new development strategies did you use while working on your 3D scene?
+
 I didn't utilize anything new, but I did utilize development strategies I've developed throughout my time at SNHU. I applied my development strategey to OpenGL and the 3DScene. In my personal opinion, all coding is the same at it's core with language being the differnce. My development strategy varies depending on the language being used. For instance, I am much more comfortable with C++ and C rather than JS. Were I to use JS my development strategy would include much more refrences to older classes where I utilized JS.
 
 -How did iteration factor into your development?
